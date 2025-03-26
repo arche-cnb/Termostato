@@ -23,3 +23,6 @@ Il sistema legge la temperatura ambiente tramite il sensore DHT11 e, in base a u
 2. Caricare il codice su Arduino tramite l'IDE di Arduino.
 3. Monitorare il funzionamento tramite il Serial Monitor e i grafici creati dal file python.
 4. Modificare la soglia di temperatura nel codice se necessario.
+
+## Link presentazione progetto in Canva
+ ### https://www.canva.com/design/DAGhl0pkugg/iDA59Whj125aqVPyUf8Eyw/edit
