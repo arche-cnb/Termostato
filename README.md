@@ -1,7 +1,6 @@
 # Termostato con Arduino e DHT11
 
 Questo progetto consiste nella realizzazione di un termostato basato su **Arduino Uno**, un sensore di temperatura e umidità **DHT11** e un **modulo relè** per il controllo di LED in base alla temperatura rilevata.
-*sono presenti il filw di arduino, il file di lettura seriale e un codice di generazione simulativa dei dati nominato arduino.py*
 
 ## Funzionamento
 Il sistema legge la temperatura ambiente tramite il sensore DHT11 e, in base a una soglia impostata, attiva o disattiva il relè per accendere o spegnere dei LED che indicano il livello di temperatura.
@@ -27,3 +26,5 @@ Il sistema legge la temperatura ambiente tramite il sensore DHT11 e, in base a u
 
 ## Link presentazione progetto in Canva
  ### https://www.canva.com/design/DAGhl0pkugg/iDA59Whj125aqVPyUf8Eyw/edit
+
+ *sono presenti il file di arduino, il file di lettura seriale e un codice di generazione simulativa dei dati nominato arduino.py*
